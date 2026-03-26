@@ -14,6 +14,8 @@ This project is based on Digital Literacy. It includes tasks related to online p
 
 # Task 1
 Created an infographic on Digital Literacy using Canva.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a8ed6643-3406-4e74-b375-1ec044191922" />
+I created an infographic using Canva. It includes topics such as safe internet practices, digital tools, and professional online presence. The design helps students understand the importance of digital literacy. While designing, I found it interesting to use templates, but adjusting content within limited space was challenging.
 
 # Task 2
 Built professional profiles on GitHub and LinkedIn.
