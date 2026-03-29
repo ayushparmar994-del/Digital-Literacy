@@ -89,6 +89,36 @@ Don’t use bad or offensive language
 
 # Task 5
 Prepared a cybercrime case study and prevention tips.
+Cybercrime Awareness : -
+UPI fraud is one of the most common cybercrimes in India today. It mainly happens when a fraudster tricks a person into sharing sensitive information like OTP, UPI PIN, or by sending fake payment links.
+
+For example, a student receives a call from someone pretending to be a bank officer. The caller says that there is a problem with their bank account and asks them to share an OTP or click on a link. The link looks real but is actually fake. When the student enters their details, the fraudster gets access to their account and transfers money.
+
+Sometimes, fraudsters also send a “request money” link and tell the person that they will receive money after approving it. But in reality, the money gets deducted from their account.
+
+Students and common people are easy targets because they may not be fully aware of these tricks. The result of such fraud is financial loss and stress for the victim.
+
+This shows how important it is to stay alert and not trust unknown calls, messages, or links.
+
+🛡️ Prevention Checklist (Stay Safe Online)
+Never share your OTP or UPI PIN with anyone
+Do not click on unknown or suspicious links
+Always check the sender before making any payment
+Use only trusted and official apps for transactions
+Enable screen lock and app lock on your phone
+Avoid using public Wi-Fi for banking transactions
+Always verify “request money” notifications before accepting
+Keep your bank and UPI apps updated
+
+💰 UPI Safety Tips:
+
+Always check if it is “Pay” or “Request” before clicking
+Do not approve unknown payment requests
+
+📢 Report Cybercrime:
+
+National Cyber Crime Portal
+Helpline Number: 1930
 
 ## Tools Used
 - Canva  
