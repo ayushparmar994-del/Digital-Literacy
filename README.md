@@ -18,7 +18,14 @@ Created an infographic on Digital Literacy using Canva.
 I created an infographic using Canva. It includes topics such as safe internet practices, digital tools, and professional online presence. The design helps students understand the importance of digital literacy. While designing, I found it interesting to use templates, but adjusting content within limited space was challenging.
 
 # Task 2
-Built professional profiles on GitHub and LinkedIn.
+Built professional profiles on GitHub and LinkedIn ,kaggle.
+linkedin : - 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/29362c17-7e33-472b-a484-0a57631bcd4e" />
+kaggle:-
+<img width="1366" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/d5acb796-020a-4d6d-a81e-0be17164a929" />
+github :-
+
+
 
 # Task 3
 Completed a coding challenge and created a Google Form quiz.
@@ -34,4 +41,9 @@ Prepared a cybercrime case study and prevention tips.
 - GitHub  
 - LinkedIn  
 - HackerRank  
-- Google Forms  
+- Google Forms
+- 
+link linkedin = https://www.linkedin.com/in/ayush-parmar2030/
+link kagggel  = https://www.kaggle.com/ayushparmar02
+
+- 
