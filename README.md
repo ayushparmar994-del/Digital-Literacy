@@ -33,6 +33,29 @@ github :-
 
 # Task 3
 Completed a coding challenge and created a Google Form quiz.
+coding challenge : -
+For this task, I used HackerRank to practice coding. I created my account and solved a beginner-level problem called “Solve Me First”. It was a basic problem where I had to take two numbers as input and print their sum.
+
+This was my first time using a coding platform, so it was a new experience for me. I understood how coding problems are given and how to submit solutions online. After solving the problem, I got a successful submission, which made me feel confident.
+
+This platform will help me improve my coding skills step by step. In the future, I plan to solve more problems regularly to become better at programming and prepare for placements.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40558775-bbb6-4831-9aa4-7881effeab01" />
+
+
+
+
+gvoogle form quiz : -
+For the collaboration part, I used Google Forms to create a Digital Literacy Awareness Quiz. I created a form with 5 questions related to digital literacy, online safety, and basic internet knowledge.
+
+The form included both multiple-choice and short answer questions. I also linked the form to a Google Sheet where responses are automatically recorded. I took screenshots of both the form and the response sheet as proof.
+
+This task helped me understand how online tools can be used for surveys, quizzes, and data collection. It will be useful in my academic work for taking feedback and conducting simple surveys.
+link= https://docs.google.com/forms/d/e/1FAIpQLSfclOBNkMqZz81xBxtgC6Yyqkwos5CuphuVYnWZJK0WqmfnCw/viewform?usp=publish-editor
+
+<img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/69f4d809-3b76-4376-b7e4-2a8cecf6686a" />
+
+
 
 # Task 4
 Wrote professional emails and created a social media checklist.
